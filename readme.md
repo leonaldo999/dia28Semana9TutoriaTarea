@@ -28,7 +28,7 @@ Este proyecto es una calculadora simple implementada en HTML, CSS y JavaScript. 
 Para utilizar la calculadora, simplemente clona este repositorio y abre el archivo `index.html` en tu navegador web. Asegúrate de tener los archivos `styles.css` y `calculator.js` en la misma carpeta.
 
 ```bash
-git clone https://github.com/tu-usuario/calculadora-js.git
+git clone https://github.com/leonaldo999/dia28Semana9TutoriaTarea.git
 cd calculadora-js
 open index.html
 ```
